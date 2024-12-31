@@ -1,0 +1,26 @@
+{
+  "majorVersion": 3,
+  "minorVersion": 3,
+  "patchVersion": 3,
+  "isDefaultConfig": false,
+  "displayMode": "format",
+  "doIntermediateUpdates": true,
+  "timeDependencyDecimalPrecision": 0,
+  "timeDependencyDecimalOffset": 0,
+  "judgments": [
+    {
+      "threshold": 0,
+      "text": "<size=160%>15</size>%n%n+++++",
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "fade": false
+    }
+  ],
+  "beforeCutAngleJudgments": [],
+  "accuracyJudgments": [],
+  "afterCutAngleJudgments": []
+}
