@@ -8,6 +8,7 @@ A collection of publicly available HSV Packs I made.
 - Slight changes to sizes of texts.
 - Added more "ElectroInvisible" HSVs and also fixed incorrect percentages in the names.
 - Reworked colours of "ElectoInvisible" HSVs
+- Strict TD shows red at 0.9 TD instead of 1.
 - Made "ElectrostatsCHEATS" align more with the rest of the HSVs
 - Other minor fixes
 
